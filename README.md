@@ -13,12 +13,6 @@
   <a href="https://github.com/ikeDong">
     <img src="https://img.shields.io/badge/GitHub-ikeDong-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://blog.ikedong.cn">
-    <img src="https://img.shields.io/badge/Blog-ikedong.cn-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="https://t.me/ike1024">
-    <img src="https://img.shields.io/badge/Telegram-ike1024-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
 </div>
 
 ---
@@ -43,7 +37,6 @@
 
 #### Frameworks & Platforms
 ![AstrBot](https://img.shields.io/badge/AstrBot-Plugin_Dev-7C3AED?style=flat-square)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
