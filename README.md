@@ -64,13 +64,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://stats.justsong.cn/api/github?username=ikeDong&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="./assets/top-langs.svg" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=ikeDong&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
