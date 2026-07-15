@@ -64,8 +64,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://stats.justsong.cn/api?username=ikeDong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://stats.justsong.cn/api/top-langs/?username=ikeDong&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://stats.justsong.cn/api/github?username=ikeDong&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="./assets/top-langs.svg" alt="Top Languages" />
 </div>
 
 <br/>
@@ -85,7 +85,7 @@
 ### 🏆 Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy.zrz.workers.dev/?username=ikeDong&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="./assets/trophies.svg" alt="Trophies" width="100%" />
 </div>
 
 ---
