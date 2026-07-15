@@ -26,10 +26,10 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Building **AstrBot plugins** and automation tools
-- 🌱 Learning **Python · Azure · DevOps · AI tooling**
+- 🌱 Learning **Python · DevOps · AI tooling**
 - 💡 Motto: **Seeing is believing.**
 - ⚡ Fun fact: barbecue + PC games 🎮
-- 📫 Reach me: [Telegram](https://t.me/ike1024) · [Blog](https://blog.ikedong.cn)
+- 📫 Reach me: ds1024@foxmail.com
 
 ---
 
@@ -109,16 +109,6 @@
 
 > 💡 Snake animation needs [Platane/snk](https://github.com/Platane/snk) GitHub Action.  
 > If the image above is broken, enable the workflow or remove this section.
-
----
-
-### 🔗 Connect
-
-<p align="center">
-  <a href="https://github.com/ikeDong"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://blog.ikedong.cn"><img src="https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white"/></a>
-  <a href="https://t.me/ike1024"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
 
 ---
 
