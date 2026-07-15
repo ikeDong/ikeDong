@@ -64,14 +64,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ikeDong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikeDong&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://stats.justsong.cn/api?username=ikeDong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://stats.justsong.cn/api/top-langs/?username=ikeDong&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikeDong&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ikeDong&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -85,7 +85,7 @@
 ### 🏆 Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ikeDong&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.zrz.workers.dev/?username=ikeDong&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 ---
@@ -94,14 +94,11 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikeDong/ikeDong/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikeDong/ikeDong/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ikeDong/ikeDong/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ikeDong/ikeDong@output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ikeDong/ikeDong@output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/ikeDong/ikeDong@output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-> 💡 Snake animation needs [Platane/snk](https://github.com/Platane/snk) GitHub Action.  
-> If the image above is broken, enable the workflow or remove this section.
 
 ---
 
